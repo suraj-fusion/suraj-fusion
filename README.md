@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suraj-fusion&theme=calm)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suraj-fusion&layout=compact&theme=calm)](https://github.com/suraj-fusion/suraj-fusion)
+
