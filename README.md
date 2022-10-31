@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj-fusion&theme=radical)
+
+![suraj-fusion's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-fusion&show_icons=true&theme=calm)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-fusion&layout=compact&theme=calm)](https://github.com/Shayan1503/suraj-fusion)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suraj-fusion&theme=calm)](https://git.io/streak-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suraj-fusion&layout=compact&theme=calm)](https://github.com/suraj-fusion/suraj-fusion)
