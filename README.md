@@ -1,4 +1,4 @@
-<a href="#"><center><img margin="100px" width="100%" height="400px" align="center" src="https://i.pinimg.com/originals/ee/6b/8c/ee6b8c8bcc016a739cb86af284c0f7bf.gif" /></center></a>
+<a href="#"><center> <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456214896?e=1686182400&v=beta&t=5b-QDu51k0N2_aEixRDKITVwZQkQXg2QCmz1vg4VFUs" /> </center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj</h1>
 <h3 align="center">An Aspiring FullStack Developer</h3>
