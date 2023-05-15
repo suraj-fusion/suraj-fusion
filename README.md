@@ -1,46 +1,74 @@
-<a href="#"><center> <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456214896?e=1686182400&v=beta&t=5b-QDu51k0N2_aEixRDKITVwZQkQXg2QCmz1vg4VFUs" /> </center></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj</h1>
-<h3 align="center">An Aspiring FullStack Developer</h3>
-
-
-
-
-   
-   
-    
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+### Hi there ! :wave:
 
 <p align="center">
-    <a href="https://github.com/suraj-fusion/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="suraj-fusion's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-fusion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456214896?e=1686182400&v=beta&t=5b-QDu51k0N2_aEixRDKITVwZQkQXg2QCmz1vg4VFUs" width="100%">
+  <br><br>
+  <samp>
+     I'm Suraj 😄 
+    <br>
+    <br>
+     I am a student and learner at heart currently pursuing my Bachelor's in Computer Science and Engineering from ITER bhubaneshwar
+    <br>
+     <br>
+    :dizzy: An Aspiring Full Stack Web Developer
+    <br><br>
+  </samp>
 </p>
 
-## 📊 My Github Stats
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-  <br/>
-    <a href="https://github.com/suraj-fusion/github-readme-stats"><img alt="suraj-fusion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suraj-fusion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/suraj-fusion/github-readme-stats"><img alt="suraj-fusion's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-fusion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+- 🌱 I’m currently learning javascript
+- :sparkles:Member of Codex,ITER
+- 📫 reach me: surajrajgp@gmail.com
 
 
-<br/>
-<br/>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
+## Tech Stacks that I am familiar with :computer:
 
-<br/>
-<br/>
+<div align="center">
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
+  
+</div>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=suraj-fusion&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<h2 align="center">📈 𝑴𝒚 Stats </h2>
+<div align="center" style="display:flex; width:100%;">
+  
+  <a href="https://github.com/suraj-fusion/github-readme-stats"><img alt="suraj-fusion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suraj-fusion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/suraj-fusion/github-readme-stats"><img alt="suraj-fusion's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-fusion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=suraj-fusion&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  
+</div>
 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=suraj-fusion">
-</a>
-<a href="https://github.com/suraj-fusion?tab=followers"><img src="https://img.shields.io/github/followers/suraj-fusion?label=Followers&style=social" alt="GitHub Badge"></a>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=suraj-fusion&theme=merko)
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<br>
+
+### Reach out to me :point_down:
+<br>
+<a href="https://www.linkedin.com/in/suraj-raj-9401b7200/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
+<a href="https://github.com/suraj-fusion"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
+
