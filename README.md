@@ -1,7 +1,7 @@
 ### Hi there ! :wave:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456214896?e=1686182400&v=beta&t=5b-QDu51k0N2_aEixRDKITVwZQkQXg2QCmz1vg4VFUs" width="100%">
+  <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/web_first_images_release.png" width="100%">
   <br><br>
   <samp>
      I'm Suraj 😄 
