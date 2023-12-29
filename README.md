@@ -1,7 +1,7 @@
 ### Hi there ! :wave:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456214896?e=1697673600&v=beta&t=NXnFKvQfcURKB_YLG9XLfgj3RMgCP7KJicARjgpFNFM" width="100%">
+  <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456216402?e=1709164800&v=beta&t=x_ltdrJEu8mWGFwcOPL7tNc4C3RmUips4z26vwXO06k" width="100%">
   <br><br>
   <samp>
      I'm Suraj 😄 
