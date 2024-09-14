@@ -1,24 +1,23 @@
 ### Hi there ! :wave:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/0/1673456216402?e=1709164800&v=beta&t=x_ltdrJEu8mWGFwcOPL7tNc4C3RmUips4z26vwXO06k" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673456216402?e=1731542400&v=beta&t=ieVjMEY2rPUBHaKsclIENQ5u_TGIatBm4eypucK68W4" width="100%">
   <br><br>
   <samp>
      I'm Suraj 😄 
     <br>
     <br>
-     I am a student and learner at heart currently pursuing my Bachelor's in Computer Science and Engineering from ITER bhubaneshwar
+     A SWE with an imposter syndrome.
     <br>
      <br>
-    :dizzy: An Aspiring Full Stack Web Developer
+    :dizzy: A Full Stack Web Developer
     <br><br>
   </samp>
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🌱 I’m currently learning javascript
-- :sparkles:Member of Codex,ITER
+- 👨‍💻 SWE in Reverie Language Technologies(Reliance Jio)
 - 📫 reach me: surajrajgp@gmail.com
 
 
