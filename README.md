@@ -1,8 +1,8 @@
 ### Hi there ! :wave:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGkOOKwGUqy1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673456216402?e=1731542400&v=beta&t=ieVjMEY2rPUBHaKsclIENQ5u_TGIatBm4eypucK68W4" width="100%">
-  <br><br>
+
+
   <samp>
      I'm Suraj 😄 
     <br>
