@@ -61,7 +61,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-fusion&bg_color=050505&color=4c9e65&line=4c9e70&point=e2dada&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-fusion&bg_color=050505&color=4c9e65&line=4c9e70&point=e2dada&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
