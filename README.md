@@ -12,6 +12,8 @@
      <br>
     :dizzy: A Full Stack Web Developer
     <br><br>
+    In case you are wondering why my github looks empty from june 2024-march 2025 i was working with a different  workplace github account and was commiting to that private repo here.
+    
   </samp>
 </p>
 
